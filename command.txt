@@ -1,7 +1,17 @@
-# It needs to go for one time for each project.
+#1 It needs to go for one time for each project.
 git init
+
+#2 Everytime, when u add something 
 git add .
+
+#3 Everytime u commit
 git commit -m "first commit"
+
+#4 
 git branch -M main
+
+#5
 git remote add origin https://github.com/ashik-imran/p-hero-project.git
+
+#6
 git push -u origin main
